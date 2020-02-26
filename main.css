@@ -1,10 +1,19 @@
+button {
+    background-color: yellow;
+}
 
 body {
-    background-color: #a3d5d3;
-  }
- 
-  
+    background-color: purple;
+}
 
-  h1 {
-    color:blue;
-  }
+h1 {
+    color: yellow;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+button {
+    font-size: 80px;
+}
